@@ -39,8 +39,6 @@ console.log(await fiendToken.totalSupply());
 
 All contributions are welcome! Please submit issues or pull requests to help improve this repository.
 
----
-
 ## ⚖️ **License**
 This repository is licensed under [MIT License](./LICENSE).
 ```
