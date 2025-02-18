@@ -12,9 +12,9 @@ Fiends.me is building an AI-powered launchpad with **FIEND tokens**, enabling se
 | Contract       | Address                                      | Description |
 |--------------|----------------------------------------------|------------|
 | **FIEND Token** | `0x29b612CE8a374d57259657304594db874800830D` | ERC-20 utility token for Fiends.me |
-| **Locker** | `0xb6AdC9F7aB29C0Ca71e5518d43A3DB86386e4Ba8` | Smart contract for token locking mechanisms |
-| **AgentPool** | `0x2b6AC77F6e08395D0988E7e883b8335800CB58c4` | Liquidity and staking pool for AI agents |
-| **AgentFactory** | `0xb2dE09e481B97af6E7a1B7e3BEF51f870b68D07b` | Factory contract for deploying AI agents |
+| **Locker** | `0xC48Db190aB4Ede79B082aF2761B978C843343087` | Smart contract for token locking mechanisms |
+| **AgentPool** | `0xfd270e5Ead9f19Da065814adE5C5C6FD14e0d310` | Liquidity and staking pool for AI agents |
+| **AgentFactory** | `0x497Be2693b62872cCace7023eA19fF9144464366` | Factory contract for deploying AI agents |
 
 For updates on additional deployments, check the [`/contracts`](./contracts/) directory.
 
