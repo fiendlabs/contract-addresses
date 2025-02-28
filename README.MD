@@ -11,10 +11,10 @@ Fiends.me is building an AI-powered launchpad with **FIEND tokens**, enabling se
 ### **Base Sepolia Deployment**
 | Contract       | Address                                      | Description |
 |--------------|----------------------------------------------|------------|
-| **FIEND Token** | `0x29b612CE8a374d57259657304594db874800830D` | ERC-20 utility token for Fiends.me |
+| **FIEND Token** | `0x0f043dE293e7bF56857C22D88DA3289a0c6E68D9` | ERC-20 utility token for Fiends.me |
 | **Locker** | `0xC48Db190aB4Ede79B082aF2761B978C843343087` | Smart contract for token locking mechanisms |
-| **AgentPool** | `0xfd270e5Ead9f19Da065814adE5C5C6FD14e0d310` | Liquidity and staking pool for AI agents |
-| **AgentFactory** | `0x497Be2693b62872cCace7023eA19fF9144464366` | Factory contract for deploying AI agents |
+| **AgentPool** | `0xBbEEA9d7938877D1cc7E0C39F725a10A4558F346` | Liquidity and staking pool for AI agents |
+| **AgentFactory** | `0x099AbF3d2fd566a5cb60Accd473B7B6e55259007` | Factory contract for deploying AI agents |
 
 For updates on additional deployments, check the [`/contracts`](./contracts/) directory.
 
